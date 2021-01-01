@@ -1,0 +1,132 @@
+
+body{
+  text-align: center;
+}
+
+/* navigation bar*/
+
+.navbar{
+padding:0 5rem 4.5rem;
+}
+
+.nav-item{
+  padding: 0 25px;
+  font-size: 1.2rem;
+}
+
+.navlink{
+color:#E0E3F2;
+font-family: 'Raleway', sans-serif;
+}
+
+.navlink:hover{
+text-decoration:none;
+color: #e31b6d;
+}
+
+.navbar-nav{
+  padding: 3% 0 0 0;
+  text-align: right;
+}
+
+/* section1 */
+.section1title{
+color:#fff5ee;
+text-align: center;
+font-family: 'Raleway', sans-serif;
+font-size: 3rem;
+font-weight: bold;
+}
+
+.Sectitle{
+padding:5% 10% 15%;
+}
+
+.highlight{
+  color: #e31b6d;
+}
+
+#title{
+  background-color: #252934;
+}
+
+/* section2 */
+
+#about{
+background-color: #e31b6d;
+}
+
+.aboutheading{
+  padding: 50px 0 20px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bolder;
+  font-size: 2.5rem;
+  color: #252934;
+}
+
+.aboutheading2{
+  padding-top: 20px;
+  padding-bottom: 40px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5rem;
+  color: #fff5ee;
+}
+
+.propic{
+  padding: 20px 0 20px 0;
+  width: 15%;
+}
+
+.skills{
+  width: 150px;
+}
+
+.skilltitle{
+  color: #fff5ee;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5rem;
+}
+
+.skill{
+padding: 0 100px 50px;
+}
+
+/* Section3 */
+
+#contact{
+  background-color: #252934;
+}
+
+.contacttitle{
+  color: #e31b6d;
+  padding: 50px 0 30px;
+}
+
+.question{
+  color: #fff5ee;
+  padding-bottom: 30px;
+}
+
+label{
+  color: #fff5ee;
+}
+
+.subbutton{
+  margin-bottom: 30px;
+  background-color: #252934;
+  color: black;
+}
+
+.subbutton:hover{
+  background-color: #e31b6d;
+}
+
+/* footer */
+.copyright{
+  font-size: 0.75rem;
+}
+
+.social-media{
+  margin: 2% 1% 2% 1%;
+
+}
